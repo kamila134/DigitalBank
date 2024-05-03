@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="23.618">
+    <testcase classname="New account" name="Registering a new account" time="21.549">
+        <system-out>
+            <![CDATA[Given the user "peter2020@test.co" doesn't exist in the DB..................passed
+When the user registers a new account as follows:...........................passed
+Then a new account is created...............................................passed
+And the following info should be saved in the DB:...........................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
